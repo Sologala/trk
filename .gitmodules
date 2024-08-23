@@ -1,0 +1,6 @@
+[submodule "mmtracking"]
+	path = mmtracking
+	url = https://github.com/open-mmlab/mmtracking.git
+[submodule "pysot-toolkit"]
+	path = pysot-toolkit
+	url = https://github.com/StrangerZhang/pysot-toolkit.git
